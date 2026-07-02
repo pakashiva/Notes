@@ -16,7 +16,7 @@ def add_notes():
 
     note = {
         "id": len(db),
-        "tilte": title,
+        "title": title,
         "content": content
     }
 
